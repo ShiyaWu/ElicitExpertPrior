@@ -1,6 +1,7 @@
-#' Reshape survey data sets relative to respondents and sample size separately,
-#' where for new survey subdata are indexed by waves, i.e. iteration
-#' and for historcal surveys by historical surveys name
+#' Reshape survey data sets with respondents and sample size separately.
+#'
+#' For new survey data sets are indicayed by wave, the iteration of new sample released.
+#' For historical survey data sets are indicated by the historical names.
 #'
 #' @param svy.dat survey data sets
 #'
