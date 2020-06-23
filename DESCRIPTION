@@ -1,11 +1,14 @@
 Package: ElicitExpertPrior
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Historcial binomial likelihood and beta prior (posterior) distribution
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Shiya Wu
+Maintainer: Shiya Wu <s.wu@uu.nl>
+Description: The package is used to elicit expert prior on the relevance of 
+    historcial data sets are to a new survey, set up a power prior and update 
+    it to posterior when new data is available. In addition, quality 
+    indicators can be predicted and their performance is evaluated.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.1.0
